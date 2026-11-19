@@ -46,6 +46,12 @@ Created PivotTables to summarize revenue and sales volume by category, revenue a
 
 Built an Excel dashboard with KPIs and charts, then developed a seven-slide PowerPoint presentation covering the objective, analytical questions, findings, and recommendations.
 
+## Dashboard
+
+Below is a preview of the Excel dashboard used in this analysis:
+
+![Excel Dashboard](dashboard-screenshot.png)
+
 ## Key findings
 
 | Measure | Finding |
